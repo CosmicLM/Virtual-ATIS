@@ -1,0 +1,8 @@
+# Core Netowrking
+requests==2.31.0
+
+# Weather Parsing
+python-metar ==1.11.0
+
+#Enviorment Management
+python-dotenv==1.0.1
